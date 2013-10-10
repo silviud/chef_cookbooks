@@ -10,3 +10,4 @@
 ::Chef::Recipe.send(:include, JavaUtils)
 
 do_something
+do_copy '/etc/hosts', '/tmp/tmp1/file'
