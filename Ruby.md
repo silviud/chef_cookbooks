@@ -29,3 +29,9 @@ $* The command line arguments used theo invoke the script
 $$ The Ruby interpreter\\'s process ID
 $? The exit         status of last executed child process
 ```
+
+Style Guide
+-----------
+
+`https://github.com/styleguide/ruby`
+
